@@ -1,7 +1,7 @@
 ## 👱🏻‍♂️Hello Gyan Ranjan Kumar 💻 
 [![Linkedin Badge](https://img.shields.io/badge/-GyanC7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gyanc7/)](https://www.linkedin.com/in/gyanc7/)
-[![Gmail Badge](https://img.shields.io/badge/-ak9601090@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ak9601090@gmail.com)](mailto:ak9601096@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/amanbh123?label=Follow&style=social)](https://github.com/amanbh123/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-gyanibrahimovic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyanibrahimovic@gmail.com)](mailto:gyanibrahimovic@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/GyanC7?label=Follow&style=social)](https://github.com/GyanC7/?tab=follow)
 ---
 ## Hi there 👋,           
 I'm Aman Bahuguna, Currently Pursuing Undergraduate in Computer Science 👨‍💻, Strong in problem-solving, Project management and Communication Skill. Proficient in C++, Python, Data Structures and Algorithms. Passionate about learning new technologies and making projects.  
