@@ -6,6 +6,8 @@
 ## Hi there 👋,           
 My name is Gyan Ranjan, Currently Pursuing Undergraduate in Computer Science 👨‍💻, I'm currently pursuing Undergraduate in Computer Science, Strong in Machine Learning, Project management and Communication Skill. Proficient in C++, R, and Python. Passionate about learning new technologies and making projects in ML & AI domain. I've done Machine Learning internship at Verzeo Pvt. Ltd. 
 
+---
+
 ## 😎 About
 - 👨🏽‍💻 I’m currently working on a Machine Learning & Deep Learning projects.
 - 👯 I’m looking for a Research internship in Machine Learning and SDE domains
@@ -14,7 +16,7 @@ My name is Gyan Ranjan, Currently Pursuing Undergraduate in Computer Science �
 - 🌱 I am a Public Speaker and love to meet new people and Travel lover country UAE, [Dubai](https://www.google.com/maps/uv?hl=en&pb=!1s0x3e5f43348a67e24b%3A0xff45e502e1ceb7e2!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPPSbeMxYawyFyJL3_f-uGzPql_yE1xa-yjDIUH%3Dw214-h160-k-no!5sBurj%20khalifa%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipPPSbeMxYawyFyJL3_f-uGzPql_yE1xa-yjDIUH&sa=X&ved=2ahUKEwjiwIamzvnqAhWoxzgGHdCfDxMQoiowMnoECCIQBg)
 - Dream to do MS in Artificial Intelligence at Zürich, Switzerland, [ETH Zurich](https://www.google.com/search?q=ETH+Zurich&rlz=1C1CHBF_enIN910IN910&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjjnYbEzvnqAhUzzzgGHeuRA70Q_AUoAXoECBYQAw&biw=1024&bih=657#imgrc=wpZZjCJRCD-wdM)
  
-
+---
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
